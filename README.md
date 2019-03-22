@@ -6,6 +6,8 @@ Jupyter Notebook with KMeans Clustering is added to repo.
 A Small Introduction of contents inside the notebook :
 
 *Structure of Code* : Used Class based programming, which will help the code to behave in a generic manner. Just instantiate the object of class and pass in your data. It gives more flexibility to add your own functions to the class and redistribute for other to use.
+
+
 *Date Used* : I have used some random data generation technique for easy understanding of algorithm functionality
 
 
